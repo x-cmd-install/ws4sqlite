@@ -5,7 +5,7 @@ about:
   head: 2d8d590
   archived: false
   latestVersion: "v0.16.6"
-  collectedAt: 2026-09-07T05:06:42Z
+  collectedAt: 2026-09-07T19:17:10Z
 timeline:
   created: 2022-01-05
   lastCommit: 2026-07-30
@@ -83,7 +83,7 @@ total:
   commit: 278
 ---
 path: /home/runner/.x-repo/github.com/proofrock/ws4sqlite
-collectedAt: 2026-09-07T05:06:45Z
+collectedAt: 2026-09-07T19:17:13Z
 loc:
   Go:
     code: 3317
@@ -134,7 +134,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:06:45+00:00
+  collectedAt: 2026-09-07T19:17:13+00:00
   platform:
     darwin/arm64:
       name:  ws4sqlite-v0.16.6-darwin-arm64.zip
