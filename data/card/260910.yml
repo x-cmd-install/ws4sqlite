@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.16.6"
   latestRelease: "v0.16.6"
   latestPrerelease: "v0.17dev7"
-  collectedAt: 2026-09-10T05:22:33Z
+  collectedAt: 2026-09-10T17:13:24Z
 timeline:
   created: 2022-01-05
   lastCommit: 2026-07-30
@@ -87,7 +87,7 @@ total:
   commit: 278
 ---
 path: /home/runner/.x-repo/github.com/proofrock/ws4sqlite
-collectedAt: 2026-09-10T05:22:39Z
+collectedAt: 2026-09-10T17:13:31Z
 loc:
   Go:
     code: 3317
