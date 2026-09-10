@@ -1,0 +1,12 @@
+- repo: aur
+  srcname: ws4sqlite-bin
+  binname: ws4sqlite-bin
+  visiblename: ws4sqlite-bin
+  version: 0.16.6
+  origversion: 0.16.6-1
+  status: unique
+  summary: Query sqlite via http
+  maintainers:
+    - tee@aur
+  licenses:
+    - ISC
