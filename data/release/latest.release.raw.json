@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 10476973,
       "digest": "sha256:79598b879cc2fea892df2ac780a5a4a1000ec857fb03283d8909bb24a1ea89ec",
-      "download_count": 788,
+      "download_count": 798,
       "created_at": "2025-10-31T09:18:18Z",
       "updated_at": "2025-10-31T09:18:19Z",
       "browser_download_url": "https://github.com/proofrock/ws4sqlite/releases/download/v0.16.6/ws4sqlite-v0.16.6-linux-amd64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 10019686,
       "digest": "sha256:19410a140c71f09a2e3a8ec6e023de51053a3ba3e99665c6f8e165b7d67ea837",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2025-10-31T09:18:19Z",
       "updated_at": "2025-10-31T09:18:20Z",
       "browser_download_url": "https://github.com/proofrock/ws4sqlite/releases/download/v0.16.6/ws4sqlite-v0.16.6-linux-arm.tar.gz"
