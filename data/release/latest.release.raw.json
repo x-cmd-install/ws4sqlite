@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 10190628,
       "digest": "sha256:a2aa039503838aa399e61728c1d7cf5c513d717998e8fb44784ace3246b11371",
-      "download_count": 14,
+      "download_count": 15,
       "created_at": "2025-10-31T09:18:24Z",
       "updated_at": "2025-10-31T09:18:25Z",
       "browser_download_url": "https://github.com/proofrock/ws4sqlite/releases/download/v0.16.6/ws4sqlite-v0.16.6-darwin-arm64.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 10476973,
       "digest": "sha256:79598b879cc2fea892df2ac780a5a4a1000ec857fb03283d8909bb24a1ea89ec",
-      "download_count": 803,
+      "download_count": 814,
       "created_at": "2025-10-31T09:18:18Z",
       "updated_at": "2025-10-31T09:18:19Z",
       "browser_download_url": "https://github.com/proofrock/ws4sqlite/releases/download/v0.16.6/ws4sqlite-v0.16.6-linux-amd64.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 10773656,
       "digest": "sha256:02bb347f5f2446459846d2cb78830e39f8ba4b1b2fa04bcc8885141918c20f7b",
-      "download_count": 73,
+      "download_count": 76,
       "created_at": "2025-10-31T09:18:25Z",
       "updated_at": "2025-10-31T09:18:26Z",
       "browser_download_url": "https://github.com/proofrock/ws4sqlite/releases/download/v0.16.6/ws4sqlite-v0.16.6-win-amd64.zip"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 9940330,
       "digest": "sha256:60343319f68358080d6f086cc37c7d20752d4169cf435fec31577c120f74083f",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2025-10-31T09:18:26Z",
       "updated_at": "2025-10-31T09:18:27Z",
       "browser_download_url": "https://github.com/proofrock/ws4sqlite/releases/download/v0.16.6/ws4sqlite-v0.16.6-win-arm64.zip"
